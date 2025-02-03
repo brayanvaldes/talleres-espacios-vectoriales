@@ -33,7 +33,7 @@ Este taller abarca diversas operaciones con números complejos en Python, incluy
 
 ## Pruebas
 
-Para probar las funciones, puede ejecutar un script de prueba que importe la librería. Asegúrese de que `complex_ops` se encuentra en el repositorio o instálela por separado si es necesario, por ejemplo:
+Para probar las funciones, puede ejecutar un script de prueba que importe la librería. Asegúrese de que `complex_ops` se encuentra en el repositorio o instálela por separado si es necesario.
 
 ## Construido con
 
